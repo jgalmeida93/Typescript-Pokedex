@@ -10,6 +10,6 @@ A typescript project using [Pokeapi](https://pokeapi.co/)
 4. Execute `browser-sync start --server --files "*.html, *.css"`
 5. Check `http://localhost:3000` or `http://localhost:3001`
 
-### Demo
+### Preview
 
 [Pokedex](https://pokedextypescript.netlify.app/)
